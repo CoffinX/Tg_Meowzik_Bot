@@ -11,8 +11,8 @@ from funcs import *
 app = Client(
     ":memory:",
     bot_token=bot_token,
-    api_id=6,
-    api_hash="eb06d4abfb49dc3eeb1aeb98ae0f581e",
+    api_id=6404259,
+    api_hash="f59f222b6f9164a160d051817c4d0b85",
 )
 
 # ARQ API and Bot Initialize---------------------------------------------------
